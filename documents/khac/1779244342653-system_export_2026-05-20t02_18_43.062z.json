@@ -1,0 +1,3064 @@
+{
+  "device_logins": [],
+  "blockedIps": [],
+  "users": [
+    {
+      "id": "EWwdfD72DfX1dsvrr9Q9DmC3IPn2",
+      "joinedAt": 1778506534115,
+      "uid": "EWwdfD72DfX1dsvrr9Q9DmC3IPn2",
+      "status": "active",
+      "createdAt": 1778506534115,
+      "phoneNumber": "000000000",
+      "displayName": "đức sơn",
+      "email": "hongducbl2003@gmail.com",
+      "lastLoginAt": 1778506535355,
+      "role": "user",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJ1KdwwgjD4XzJFvgZM5rdHuErROmQwu-5bmA6VNNy3TLvVBg=s96-c",
+      "lastIpAddress": "113.170.202.182",
+      "onboardingCompleted": true,
+      "location": {
+        "lng": 105.79637307107123,
+        "lat": 9.254902375849246,
+        "updatedAt": {
+          "seconds": 1778686643,
+          "nanoseconds": 300000000
+        },
+        "address": ""
+      }
+    },
+    {
+      "id": "G90oHqucjuWezqUoUWLS7jmHLE92",
+      "phoneNumber": "0123456",
+      "joinedAt": 1779202777004,
+      "email": "bmassxyz@gmail.com",
+      "displayName": "test app",
+      "lastLoginAt": 1779202778365,
+      "uid": "G90oHqucjuWezqUoUWLS7jmHLE92",
+      "role": "user",
+      "photoURL": "",
+      "lastIpAddress": "115.75.130.59",
+      "status": "active",
+      "createdAt": 1779202777004,
+      "location": {
+        "lat": 9.233819893655765,
+        "updatedAt": {
+          "seconds": 1779209185,
+          "nanoseconds": 778000000
+        },
+        "address": "Phường Hiệp Thành, Tỉnh Cà Mau, Việt Nam",
+        "lng": 105.74635539453453
+      }
+    },
+    {
+      "id": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "email": "sonlyhongduc@gmail.com",
+      "displayName": "BmassK3",
+      "lastLogin": "2026-05-13T08:51:48.428Z",
+      "phoneNumber": "0939262443",
+      "lastIp": "171.243.51.45",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIfBnIUaDgKaHWMruS0Dhx8BXD4xrU7M6QCVg8s2WO1CugoIEXg9w=s96-c",
+      "lastIpAddress": "113.170.202.182",
+      "lastLoginAt": 1779237331258,
+      "role": "superadmin",
+      "onboardingCompleted": true,
+      "longitude": 105.64880043908296,
+      "location": {
+        "lat": 9.254403114318848,
+        "updatedAt": null,
+        "address": "",
+        "lng": 105.79613494873047
+      },
+      "secondaryPassword": "421411",
+      "joinedAt": 1778504901246,
+      "accessKey": "3MRJIED2",
+      "uid": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "isSuperAdmin": true,
+      "createdAt": 1778504901246,
+      "status": "active",
+      "latitude": 9.292670383457985
+    },
+    {
+      "id": "gZ5SfjiZdjTbiMINi94pBeAzn4A3",
+      "uid": "gZ5SfjiZdjTbiMINi94pBeAzn4A3",
+      "joinedAt": 1779209194426,
+      "status": "active",
+      "createdAt": 1779209194426,
+      "lastLoginAt": 1779209195733,
+      "role": "user",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocI0LX08t_NpMgA5lUA7JC_15sMnfOpwAWLK67T7uWzHolE_L-w=s96-c",
+      "lastIpAddress": "115.75.130.59",
+      "phoneNumber": "0",
+      "email": "sonlyhongduc.bl@gmail.com",
+      "displayName": "Hồng Đức Sơn Lý (Two)",
+      "onboardingCompleted": true,
+      "location": {
+        "lng": 105.7463043358002,
+        "lat": 9.233833598754229,
+        "updatedAt": {
+          "seconds": 1779209233,
+          "nanoseconds": 402000000
+        },
+        "address": "Phường Hiệp Thành, Tỉnh Cà Mau, Việt Nam"
+      }
+    }
+  ],
+  "contact_requests": [],
+  "utilities": [],
+  "activities": [
+    {
+      "id": "0EJylhw4UySYEP17pa7X",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-13T15:53:18.469Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "0URXZwmKzdRMa6caVbRN",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T08:04:20.657Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "0wSApLx6b78LRBWKN8ZC",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:33:08.938Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "144KIhvG07VviCefLWdi",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T01:51:19.532Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "1DQiEzgiBgpW8cBtXLl9",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T16:22:51.903Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "1PI6bCM1uckH33m9HSm5",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-13T15:37:33.011Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "1q1MHt7oLQ15iIbxm5nP",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "9MGVncxnKmW28SjpJnlK4SmUBeI3",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T12:28:56.808Z"
+      },
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": "1x2x4OJVjo9oFYbDmMQh",
+      "userId": "Sr2v89RZMTVyE2jf78y5FJsIEWx1",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "description": "Yêu cầu xác minh email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4.2 Mobile/23E261 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-04T17:49:29.871Z"
+      }
+    },
+    {
+      "id": "1yip52qiwshZOSvUpqip",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:54:46.570Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "20W7bboQLE2cF81TPXX5",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-01T17:29:32.121Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2"
+    },
+    {
+      "id": "2E0k7YlxfXnY7CQE0Hfh",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T19:40:13.767Z"
+      }
+    },
+    {
+      "id": "2hwn6X49mcroNZKS6cdU",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:35:57.508Z"
+      },
+      "description": "Yêu cầu xác minh email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "USzng4HfwLbeJuYlVYPFC12Ko7A3"
+    },
+    {
+      "id": "3FhiVLmhuSl8vCn9u2fU",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T03:20:26.435Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "3Rp8UgDCW6tdAuTGTpNi",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:06:38.353Z"
+      }
+    },
+    {
+      "id": "48mPhLs65p3lTzLqhCF0",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T05:06:48.900Z"
+      }
+    },
+    {
+      "id": "4lYwnh26SVrjZURpH0a2",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T14:14:22.175Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu"
+    },
+    {
+      "id": "4rXxIhbdJ2CRe2iZmT8E",
+      "type": "SECURITY_CHANGE",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T09:34:39.148Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Yêu cầu đổi mật khẩu"
+    },
+    {
+      "id": "5xLJAhV6pK1CxYRaw9Ln",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Social authentication successful with extended scopes",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:53:40.823Z"
+      },
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "7FN34GJ443sDeHx6kKRy",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:33:42.118Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "7X7SSXb1nGmJgQMEopbV",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-04T13:50:00.850Z"
+      }
+    },
+    {
+      "id": "7ZWKMVSceb2RAiUprkCY",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T11:28:42.994Z"
+      },
+      "description": "Đã cập nhật cấu hình tài khoản (Tên: BmassK3)",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "8O5KOCoZNsc96A3XVckD",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-14T18:14:41.620Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "8hWffT1sU7IRBZbFtgAk",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "2rzgRU91LcfHKAnV0Hc3QomtM1y1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T15:32:15.430Z"
+      },
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "8iyp5MK5oKhiess0LFsr",
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto",
+      "description": "Cập nhật thông tin",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T05:01:08.793Z"
+      }
+    },
+    {
+      "id": "98soVpxt91ePz5dzl4jk",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T04:58:51.533Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "9GmEc4RTPKRC0XxMXV34",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T10:34:00.891Z"
+      }
+    },
+    {
+      "id": "9R7cGW2JTSbJbtF6glsV",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-04T14:06:42.532Z"
+      }
+    },
+    {
+      "id": "9uiJUzX88fTZylEKX5u7",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:19:58.878Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "9w8StiUY7DB2Jdd1J7Bf",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T03:56:54.353Z"
+      }
+    },
+    {
+      "id": "AecwtiJEnPOTPiT5QugC",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:50:19.775Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "ArtA29a8KfEOJ070BvPA",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:02:11.946Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "Av2cdn0rf4Dh0UQH9cWe",
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T05:13:28.140Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "AzvbiNmehzhH9xU60E9R",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T10:53:08.876Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "BAENoPZxcFsZn2cBEiOe",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T05:11:51.837Z"
+      }
+    },
+    {
+      "id": "CDNIK3IU32AZJAfcvhNr",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T10:52:08.344Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "CGfU4J3cegV8IHkzDEgY",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T09:07:48.168Z"
+      },
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "CNjkcOwSfR36jASCHwRx",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:45:16.230Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "CkNDnatKXqBgySIQxmxj",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T11:42:22.815Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "Cm9H3kTKeLPJhkl8bQMy",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Signed in via Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T17:36:43.397Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "D0s6eoJHWp8iclet3zNM",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-12T02:43:59.916Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "DZMuMjH9kUSQNV26ffkM",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T05:07:23.727Z"
+      }
+    },
+    {
+      "id": "DhhAtGZ68LtAhi4jSDDc",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-14T15:09:26.276Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "DsFpbPwwMrxk612k90zh",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T04:43:43.500Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "E2soYA3K663pEkHtPX3S",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T12:22:48.480Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "EGRFPHDumtmVwVmPrust",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T14:09:36.631Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.166 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "ElMdOL89n5CxVEHFbb3f",
+      "description": "Yêu cầu xác minh email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T15:24:03.407Z"
+      },
+      "userId": "2rzgRU91LcfHKAnV0Hc3QomtM1y1",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE"
+    },
+    {
+      "id": "GWJH87YSNFRjbvksCVxB",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.166 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T11:52:07.459Z"
+      }
+    },
+    {
+      "id": "GX0xZzVfTaILvDQvyd4z",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Cập nhật thông tin hồ sơ",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T20:12:42.812Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "GadmAQVsH0LcREUo8qpa",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T08:01:42.275Z"
+      }
+    },
+    {
+      "id": "Gflrpb05SRDP42qZInVg",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T05:05:18.629Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "HDWICNCpgeoOlG0IiMAD",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T17:48:09.626Z"
+      }
+    },
+    {
+      "id": "HIO1dkaaHjMNYnyg5oB1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T19:35:54.948Z"
+      },
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "HKALglFFSi7HtFgV40qM",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T16:37:13.912Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Cập nhật thông tin",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "HRMsM22wQf1kvRjPVG5Z",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-13T14:52:07.735Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "HRZzPZyvB4m6GpuvKVWK",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-01T19:01:32.589Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "HWgeFtJvZfrak84njSkX",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:56:20.563Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "HvrMKUjWN3qz0LAqkHsR",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "2rzgRU91LcfHKAnV0Hc3QomtM1y1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T15:31:32.747Z"
+      },
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "IH1OQeQgoZjOCAErqz2B",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T09:58:40.737Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email"
+    },
+    {
+      "id": "JUQmuSFMiCHTjQ9Ft4zc",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T04:58:38.476Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "JVACocJaYmAVhi9u99WT",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-10T11:56:28.975Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập qua Email"
+    },
+    {
+      "id": "KLT7HN5GLk53Pb3zB0g2",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:06:51.654Z"
+      },
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "LMhtYYkEJvY1m4oXB4Vk",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T05:12:42.440Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "LcklmIC4gi63llOqK8kW",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T07:11:27.251Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.166 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "M8qiViQITcU1eGbg16hu",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T04:52:09.683Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2"
+    },
+    {
+      "id": "MElu1BvV7K4rhYguDrNf",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:00:27.738Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "MeSMT2TubbvJ5E8BYviE",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T03:41:46.101Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập qua Email",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "Mf2pl4vCuluOZUZCUI6C",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-14T18:01:49.533Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "MgfJ53psvY1IW5mGVszv",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T17:48:06.496Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "MuccSfHncw0H3c116C9y",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T00:52:56.989Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Google"
+    },
+    {
+      "id": "N5YEGhicY7usjubByT0b",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T10:18:58.308Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.166 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "NMd7bvLkwEFhFzfzMbv2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T05:24:16.716Z"
+      },
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "NaKOXwOMrtrhPYXZXFOr",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:20:08.287Z"
+      },
+      "description": "Yêu cầu xác minh email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "USzng4HfwLbeJuYlVYPFC12Ko7A3"
+    },
+    {
+      "id": "NdC9DYkC64yavikMHEmU",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:51:33.053Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "NdVZQSa63YpQeAvcGIlr",
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T06:32:56.807Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "OKJQP0hGHKgH9mfFTu9w",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-14T18:12:04.603Z"
+      }
+    },
+    {
+      "id": "OPiXjNrvKR1rkBoD4xPR",
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T18:18:13.459Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "OhZ9llzKYGAWcR8yT6am",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:39:01.116Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "Ou2Pqs0ZTYrs3LlgyvDZ",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T08:31:16.642Z"
+      },
+      "description": "Cập nhật Access Scopes Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "PDyuJyhqVlzkSI8BewIN",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T07:10:15.541Z"
+      },
+      "description": "Cập nhật Access Scopes Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "PXkLAaH9l5p2uRdZ9hjF",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T14:59:17.200Z"
+      }
+    },
+    {
+      "id": "QD7moS5Z1aXmmuw8LhOh",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:25:51.496Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "QG3SaUzLJGudRkWx4Odg",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T11:15:19.859Z"
+      }
+    },
+    {
+      "id": "QR48XAjvzQSdfSRHmM6b",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-07T02:12:20.960Z"
+      }
+    },
+    {
+      "id": "QbTX5RdtSN63ru70XKGy",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Cập nhật thông tin",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T12:03:16.728Z"
+      }
+    },
+    {
+      "id": "R6OwIekVQtzALCq11bjx",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T03:23:11.077Z"
+      }
+    },
+    {
+      "id": "RBLx1QRPjskMAfqB6rpC",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-01T19:00:37.342Z"
+      },
+      "description": "Đã cập nhật cấu hình tài khoản (Tên: BmassK3)",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "ScG4Swou1bxAtlE1On73",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-14T15:25:23.157Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "SgExTwe1Wnn0huciB26l",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:19:56.036Z"
+      },
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "USzng4HfwLbeJuYlVYPFC12Ko7A3"
+    },
+    {
+      "id": "SiJ3K9WmFQqjPU1DWru4",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T19:29:31.191Z"
+      },
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "TE9W5TG5jdueJt2IzD2P",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "mvKV2RtZ2mcS1NeHlOAGfEoNfkl1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T06:36:34.210Z"
+      },
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "Tb2eulj3tZ341BhX6Zt0",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T17:15:44.253Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "U5Dix5joTlYwE3uhcvuL",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:02:57.497Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "UPysTwVjmWJpyCqGsgbl",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T06:47:24.671Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "UTnPqpkftWGc3YFBaBfj",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T09:49:46.200Z"
+      }
+    },
+    {
+      "id": "UUuzxiSryxzqDSTnxTqL",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:06:21.025Z"
+      },
+      "userId": "gZ5SfjiZdjTbiMINi94pBeAzn4A3",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "UYIFPbAklgPptJQ2c5I9",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T04:56:28.328Z"
+      },
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "UehR1CqEupjWF6sKgSDK",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:31:06.851Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "V3HVoW47Y6rGX7kIpyZG",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T12:25:47.782Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "VHQDhP83Yy94wlWQ98BE",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:40:07.532Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Đã cập nhật thông tin tài khoản"
+    },
+    {
+      "id": "Ve9Lbua559fXhiE3l7T0",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T05:19:31.322Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "W0mL5OfmDWXDmzw0z4p6",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-13T11:45:55.937Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "WWSYeulm6mMc5NuodRy9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Signed in via Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T17:49:15.895Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "WgC1qw6PRUQfJKWJILrn",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:00:53.151Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "Wp1tkyEsNchz1DirvRzg",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-20T00:35:34.775Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "X0kVplAZYHphWWdfAIyt",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "description": "Yêu cầu đổi mật khẩu",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T14:16:06.369Z"
+      }
+    },
+    {
+      "id": "XjUkN8dRZNvfQBEWvkN4",
+      "type": "SECURITY_CHANGE",
+      "ipAddress": "Auto",
+      "userId": "USzng4HfwLbeJuYlVYPFC12Ko7A3",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:18:26.510Z"
+      },
+      "description": "Yêu cầu xác minh email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "XqHf8ilwt1cdtlI3mZii",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:51:21.916Z"
+      },
+      "userId": "9h1MZt3wAmdUu9MYZcbPQhK9BQd2",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "Xvv3lPeZ6x1z3zYhVcZY",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:19:21.552Z"
+      },
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "Y90MjNyjr0NOdloloQkN",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:06:38.922Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Đăng nhập qua Email"
+    },
+    {
+      "id": "YBFxAtgFwdSiJdhOTNlc",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T16:46:36.387Z"
+      },
+      "userId": "gZ5SfjiZdjTbiMINi94pBeAzn4A3",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "YCWj9Nx5dp3fac37s6xp",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:54:45.857Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "YQmFf1fGPxzgshKl4AMg",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:48:29.585Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "ZDPoOClxkL0LTgMbzJLW",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T15:58:12.126Z"
+      },
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "ZTDwvxPmtLwpFEqCDjr0",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T11:41:14.378Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "aFRrvWMSfeqTH9FosQXS",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T06:23:42.103Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "aGH4s2ye51IeKbkeee6d",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Cập nhật Access Scopes Google",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T07:31:29.045Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE"
+    },
+    {
+      "id": "aJYp2eFGBBP6wouu4qHG",
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:11:39.278Z"
+      },
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "type": "SECURITY_CHANGE",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "aS6qbyAmtZq43NjsIWkC",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T06:25:42.052Z"
+      }
+    },
+    {
+      "id": "adSAJOlhqxgsKMSHXjtT",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:15:12.562Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "af8sJXs7jUPKlDLcixlv",
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T02:57:56.098Z"
+      },
+      "userId": "U6xaLWjyqAVScnqJpo1WEy3ficp2",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "armfnGAHSKZDw9uw4Khw",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:39:37.874Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "b5DV74x44bOIAVSvszg5",
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-01T17:25:12.245Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE"
+    },
+    {
+      "id": "b9B29IozIKp2bkB8i0oW",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:42:33.436Z"
+      }
+    },
+    {
+      "id": "bwjy6edWcWUjLmYHKuRx",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Google",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:36:37.244Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "bx9v4DaLYjLPSmPer4F9",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-12T02:25:48.135Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email"
+    },
+    {
+      "id": "cbUQ1VfP0I2uVmnBMnAz",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T12:07:20.449Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "cdWrLdnweW1wbONVIuj4",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:54:34.178Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "9h1MZt3wAmdUu9MYZcbPQhK9BQd2"
+    },
+    {
+      "id": "dJZYupfaujYDKwrLkLtJ",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "9h1MZt3wAmdUu9MYZcbPQhK9BQd2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T10:00:43.472Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "dJZpvY0fx0vQGGYrrAYG",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T14:10:54.667Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "djLDHuwDDXvDQrBOyDql",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-10T09:35:21.803Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "emGkQaLN1Fsc0dm3K92X",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:00:40.968Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "f4L8C6CLfuKksQOGmhxL",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T08:57:16.164Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "fICzxIhUGPmUQ2DbHtTz",
+      "userId": "USzng4HfwLbeJuYlVYPFC12Ko7A3",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:23:36.498Z"
+      }
+    },
+    {
+      "id": "fbzHE7TLGcM10Op8egPk",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:39:29.062Z"
+      },
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "ffvwAnLnD0fOqs5D8LWa",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:52:26.315Z"
+      }
+    },
+    {
+      "id": "gJ9rnzMZTlZbiFHhao3B",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T20:22:37.210Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu"
+    },
+    {
+      "id": "gRPKWDaoM75joym2m2he",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:37:55.035Z"
+      },
+      "description": "Yêu cầu xác minh email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "jJ9Jb4yxesUl7goQt2OEX3hOfIv2"
+    },
+    {
+      "id": "gjhd2FKPLRurSFVoCe1k",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T15:57:40.819Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "gylf52IMStuTwdvr1ANK",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T06:51:20.336Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công qua ID/Pass"
+    },
+    {
+      "id": "gzoJizK2Myb7hyPS9twh",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T02:58:15.473Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "hIwZg4uVqybIzz0hgORA",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:54:44.786Z"
+      }
+    },
+    {
+      "id": "hJ6qd3tvMuFnLyLsSXRh",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T03:06:01.371Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "hPJbl5kAMarH9nbIzFGQ",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T11:50:30.183Z"
+      }
+    },
+    {
+      "id": "hjTB1QvUSjUHM7ly7FWf",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:48:58.445Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "hwaSFIblMf3Y3sSu3AZk",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:46:08.856Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "i4IDUsVHkW9FkaBAjOUv",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:03:34.253Z"
+      }
+    },
+    {
+      "id": "iDGa6Gk6chWnfqIX10O0",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T15:17:36.315Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "iwgu8cgmtHNm0TroMWb6",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T14:36:50.759Z"
+      },
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "j7emxu2kcVDRyao8hxqe",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto",
+      "description": "Cập nhật Access Scopes Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T06:58:20.777Z"
+      }
+    },
+    {
+      "id": "jTjw38V2DOcWH2bgC8wI",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T02:40:08.270Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Google"
+    },
+    {
+      "id": "jcg3LSJQctZ6xBoG5JR6",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T16:47:17.276Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "jewuJsFBe46Za8A54NXa",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T04:44:44.022Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "jjqMXD41t0mNrjiRQBXc",
+      "userId": "jJ9Jb4yxesUl7goQt2OEX3hOfIv2",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:37:52.335Z"
+      }
+    },
+    {
+      "id": "jyJQYMYkitNca096cZaZ",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T11:03:25.547Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "jyMidG5R8hrDmgh3grS7",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T10:50:17.955Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Google",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "k1a9IsU988owP4ckWUhs",
+      "type": "SECURITY_CHANGE",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:53:49.426Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Yêu cầu đổi mật khẩu qua email"
+    },
+    {
+      "id": "kCT7OEOZ181RREWwQQrs",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:35:35.727Z"
+      },
+      "userId": "EWwdfD72DfX1dsvrr9Q9DmC3IPn2",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "khT3X3kvSseCz51Y4N4O",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:46:56.054Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "l3orgpYVXI0zBlSEJSp8",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:40:12.486Z"
+      },
+      "description": "Đã cập nhật thông tin tài khoản",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "ldQDtA76eONu15GLdWOK",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T15:28:29.785Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "lrReAmN3s3NPxWIZgbzb",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:08:23.210Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "mRW5sJJmKrXZ3m1OjsJx",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-04T16:18:11.293Z"
+      }
+    },
+    {
+      "id": "npto9cbILCgJVJZEHRr1",
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T16:42:26.404Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "nsr9ERq195dbU71QePmf",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:34:24.817Z"
+      },
+      "description": "Social authentication successful",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "nyGbRp1YoMdbKGP56qYb",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T09:13:17.578Z"
+      }
+    },
+    {
+      "id": "oDzmNSFfLmzIIoT4jBO0",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T15:20:13.657Z"
+      },
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "oX4oXXI4Ir2fS2YbTJES",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "SECURITY_CHANGE",
+      "ipAddress": "Auto",
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:47:26.206Z"
+      }
+    },
+    {
+      "id": "oewBsY2I9eHozBLgjDRT",
+      "type": "SECURITY_CHANGE",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:52:56.354Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Yêu cầu đổi mật khẩu qua email"
+    },
+    {
+      "id": "otFYGt3LCJ3Xpgi0RBhi",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:06:09.244Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "oxyUiq7N42KsQv0NHB8p",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:47:07.600Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "pDnVNWHlNHreThsuKnI7",
+      "type": "UPDATE_PROFILE",
+      "ipAddress": "Auto",
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T08:02:19.938Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Cập nhật Access Scopes Google"
+    },
+    {
+      "id": "pGPv2tZwCymYo4JiqyY3",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T16:46:32.796Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "pVk2SjMVp8IX6ssj7bwX",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T08:55:23.163Z"
+      }
+    },
+    {
+      "id": "pgD8WzhGPxB7vboasDhG",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T23:55:06.505Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "q7DUMqLOkYQDkJBH0nje",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T07:36:50.842Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "qQygIP4avD82pQwoKFRE",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "gZ5SfjiZdjTbiMINi94pBeAzn4A3",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:05:42.841Z"
+      },
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "qdr9CDQ6wPpWwbhYSRDZ",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-10T01:33:54.710Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "qfXTCbazg8YES6aw4rZO",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T19:42:30.805Z"
+      },
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "r5vRvfLRjmV5Wsgmi2qi",
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T15:28:31.994Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "sXHnb4tJGxxQgJHnAvDq",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:09:58.319Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "description": "Đã đăng nhập qua Email"
+    },
+    {
+      "id": "t7t4wowBccM3mHKRj7ig",
+      "description": "Đăng nhập thành công qua ID/Pass",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T15:30:13.420Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "tOpx2hrAF4lP8Z9z1OVd",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T07:27:30.535Z"
+      },
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "tspBwR4QjlFimlbVFmRw",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:54:26.928Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công bằng Google"
+    },
+    {
+      "id": "u1mGfehr7dkAjEqYVlYw",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:53:43.346Z"
+      },
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "uHVJvaBjsYiDV2RVOaUP",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-05T09:05:27.265Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1",
+      "description": "Đăng nhập thành công qua ID/Pass"
+    },
+    {
+      "id": "vbUQNdVBNpIR8jbab2gY",
+      "userId": "bcaHwrgsw8Yo4YFZzRkpJ8oIlmh2",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "description": "Social authentication successful with extended scopes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T07:58:36.256Z"
+      }
+    },
+    {
+      "id": "vgRf7BrWQGq3B9xaQmNq",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:23:11.054Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "vqJaI6281wefylVzI5NS",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T14:55:03.535Z"
+      },
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.166 Mobile/15E148 Safari/604.1",
+      "description": "Đã đăng nhập qua Email",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "wYV6tqpX4fZBJ9yvOxg7",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T05:12:35.877Z"
+      }
+    },
+    {
+      "id": "wbc4cXjKiXbBmAuKCAbn",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:31:41.244Z"
+      }
+    },
+    {
+      "id": "wj0En6z0I7IyxNLfUYtk",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T04:36:54.859Z"
+      },
+      "description": "Đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "wkkVtudbInNgW1GNHxNw",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T16:18:36.983Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "ipAddress": "Auto",
+      "type": "LOGIN"
+    },
+    {
+      "id": "wnpulArQyTvQEbv1y0HM",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Đã thiết lập liên kết hệ thống",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-19T10:04:10.535Z"
+      }
+    },
+    {
+      "id": "wpUKuLELQFZo2BakU726",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T13:30:39.118Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "wxfTGEqiL51XCVqOOCQp",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T18:21:54.427Z"
+      },
+      "description": "Yêu cầu đổi mật khẩu qua email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "SECURITY_CHANGE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "x4A1ivnHGQa1BxwHz658",
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T16:25:10.328Z"
+      },
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto"
+    },
+    {
+      "id": "x4TpDx93mnl7e0bMNV4E",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "uXdu6PqqovQItHhsKF3PNzD7gag2",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-02T19:45:02.271Z"
+      },
+      "description": "Đăng nhập thành công bằng Google",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "xT5jIK9HY3dJAudtLQii",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-04T18:27:07.556Z"
+      },
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": "yBZ1FLl5BlkzyEbhYZTN",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T06:16:04.478Z"
+      },
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "description": "Social authentication successful with extended scopes",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "yXfAgMg2KWvn7mrzkYUo",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-03T14:51:19.453Z"
+      },
+      "description": "Đăng nhập thành công bằng Email/Mật khẩu",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "z1xLijN7ZhXsE6h9T2bC",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "type": "LOGIN",
+      "ipAddress": "Auto",
+      "description": "Signed in via Email",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-09T19:57:38.992Z"
+      }
+    },
+    {
+      "id": "zUOTfGODSvtKNJbW2OrT",
+      "ipAddress": "Auto",
+      "type": "LOGIN",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:55:03.009Z"
+      },
+      "description": "Đã đăng nhập qua Email",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "zbRbzqVRTDLxIQpoFb8O",
+      "timestamp": {
+        "_t": "timestamp",
+        "val": "2026-05-08T08:28:08.513Z"
+      },
+      "description": "Cập nhật thông tin",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "ipAddress": "Auto",
+      "type": "UPDATE_PROFILE",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    }
+  ],
+  "user_ai_keys": [
+    {
+      "id": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "email": "sonlyhongduc@gmail.com",
+      "createdAt": {
+        "_t": "timestamp",
+        "val": "2026-05-14T17:03:45.573Z"
+      },
+      "status": "active",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "lastUsedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-14T17:03:45.573Z"
+      },
+      "apiKey": "AIzaSyCZR_4EAqhyamMHuHtpGGkCRjJvp-Jvoj8"
+    }
+  ],
+  "forms": [],
+  "form_responses": [
+    {
+      "id": "JWdVVtW3y3bFO4ITK07Z",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "datasetRecordId": "mduloojjq",
+      "formSlug": "thu-nghiem",
+      "formId": "wyCGfO3fUkVXe6xKbhGT",
+      "answers": {
+        "2w9lirgiu": "V.08.05.13",
+        "us391nrpf": 9520877668,
+        "2go2jfhny": "Sơn Lý Hồng Đức",
+        "ghovt6ll2": 37681,
+        "r76s38c91": "aaaa",
+        "r0rez53lh": "cccc"
+      },
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T11:47:52.863Z"
+      }
+    },
+    {
+      "id": "K091cscGw0EfN3ZQ9BkO",
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T11:03:46.154Z"
+      },
+      "formId": "6K85BQc9m98dU1PRR2Nt",
+      "answers": {
+        "bf6sd1594": "2003-03-01",
+        "3tx6s1qlt": "Sơn Lý Hồng Đức"
+      },
+      "formSlug": "thu-thap-thong-tin",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "LNTirZ5tLKrpZ6VpSwI7",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "datasetRecordId": "e5uvcr6ph",
+      "formSlug": "aaa",
+      "formId": "QSjLqNhkFwrZAb6gX7aW",
+      "answers": {
+        "20qfjixzy": "1971-09-03",
+        "zgd1qrewd": "Trương Bảo Gia",
+        "6ufnq736e": "V.08.03.07",
+        "y4789rnnf": 5996005217
+      },
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:05:52.220Z"
+      }
+    },
+    {
+      "id": "fM134GZXm4TZTzDqrQt1",
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:03:54.565Z"
+      },
+      "answers": {
+        "6ufnq736e": "V.08.01.03",
+        "y4789rnnf": 5996005373,
+        "zgd1qrewd": "Lưu Đức Hiệp",
+        "20qfjixzy": "1971-06-11"
+      },
+      "formId": "QSjLqNhkFwrZAb6gX7aW",
+      "formSlug": "aaa",
+      "datasetRecordId": "6m0tr25or",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1"
+    },
+    {
+      "id": "g8GGUvwbdCw1Mn7bOMN6",
+      "answers": {
+        "t1jxermh4": "1980-10-20",
+        "gblnbeskg": "V.08.08.23",
+        "b3pyqh683": 9306000045,
+        "r6v5h0as3": "Phan Thị Vịnh"
+      },
+      "formId": "urvwURamxVFINsgz3l98",
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:09:48.251Z"
+      },
+      "datasetRecordId": "onynj0dfa",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "formSlug": "aaaaaaaaaaaa"
+    },
+    {
+      "id": "kdgQ7e5KxOZDFQmGXHzn",
+      "formSlug": "thu-thap-thong-tin",
+      "datasetRecordId": null,
+      "userId": "EWwdfD72DfX1dsvrr9Q9DmC3IPn2",
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-12T00:32:45.574Z"
+      },
+      "answers": {
+        "eewmn2wap": "Sơn Lý Hồng Đức"
+      },
+      "formId": "su5hgXsflbi567OtNl67"
+    },
+    {
+      "id": "m7FRfYabaISMGcqk3uZy",
+      "answers": {
+        "y4789rnnf": 9520877668,
+        "6ufnq736e": "V.08.05.13",
+        "20qfjixzy": "2003-03-01",
+        "zgd1qrewd": "Sơn Lý Hồng Đức"
+      },
+      "formId": "QSjLqNhkFwrZAb6gX7aW",
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:04:26.413Z"
+      },
+      "datasetRecordId": "n40ds4ghc",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "formSlug": "aaa"
+    },
+    {
+      "id": "y7YFjfPgGNgAbweoKz8p",
+      "submittedAt": {
+        "_t": "timestamp",
+        "val": "2026-05-11T12:04:09.801Z"
+      },
+      "formId": "QSjLqNhkFwrZAb6gX7aW",
+      "answers": {
+        "zgd1qrewd": "Trương Nguyệt Linh",
+        "20qfjixzy": "2000-03-20",
+        "y4789rnnf": 9520963503,
+        "6ufnq736e": "V.08.07.18"
+      },
+      "formSlug": "aaa",
+      "userId": "VYIs9XHLR9RMStwtcdwMrOIo33w1",
+      "datasetRecordId": "wukmtneq2"
+    }
+  ],
+  "document_categories": [
+    {
+      "id": "BVJ95AObPxgocnjBmOTh",
+      "createdAt": {
+        "seconds": 1779193929,
+        "nanoseconds": 244000000
+      },
+      "description": "Danh mục mặc định",
+      "name": "Khác"
+    }
+  ],
+  "documents": [
+    {
+      "id": "3uZr0fb0VBtuI7gcX8Nc",
+      "hidden": true,
+      "note": "",
+      "size": 189952,
+      "githubPath": "docs/1776350337640_KH PC BKLN NĂM 2026 THAY THẾ.doc",
+      "viewCount": 0,
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "categoryName": "Chưa phân loại",
+      "timestamp": "2026-04-16T14:38:59.745Z",
+      "name": "KH PC BKLN NĂM 2026 THAY THẾ",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776350337640_KH PC BKLN NĂM 2026 THAY THẾ.doc",
+      "downloadCount": 0,
+      "categoryId": "",
+      "sha": "c77d6d5427ff1ce556f353f7d3325baa69438846",
+      "category": "Khác",
+      "fileName": "KH PC BKLN NĂM 2026 THAY THẾ.doc",
+      "type": "application/msword"
+    },
+    {
+      "id": "7Ze7TZAB6So4eOVzUQjb",
+      "viewCount": 2,
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "note": "",
+      "size": 118090,
+      "githubPath": "docs/1776610234309_130_KTC_yte.docx",
+      "sha": "ea6b5695e5be11ad02074c730e731c0427e70c8a",
+      "category": "Khác",
+      "fileName": "130_KTC_yte.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "timestamp": "2026-04-19T14:50:36.468Z",
+      "name": "130_KTC_yte",
+      "downloadCount": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776610234309_130_KTC_yte.docx"
+    },
+    {
+      "id": "95acH65qPQz5nnGbI2jT",
+      "name": "Mẫu giấy đi đường (công lệnh)",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1769487940035_mẫu công lệnh.docx",
+      "githubPath": "docs/1769487940035_mẫu công lệnh.docx",
+      "note": "",
+      "size": 19649,
+      "timestamp": "2026-01-27T04:25:41.776Z",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "fileName": "mẫu công lệnh.docx",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 4,
+      "category": "Biểu mẫu",
+      "sha": "7852b7ee3e7c6416e0da56cbfabb9fa1ed8b6692"
+    },
+    {
+      "id": "9tWkjfhY8pLqTfMoK9WS",
+      "name": "MẪU BC-TỔNG HỢP HIV BÁC SĨ HIỆP",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1770020438974_MAU%20BC%20TONG%20HOP%20HANG%20THANG%20(1).doc",
+      "downloadCount": 2,
+      "timestamp": "2026-02-02T08:20:40.407Z",
+      "type": "application/msword",
+      "fileName": "MAU BC TONG HOP HANG THANG (1).doc",
+      "sha": "5a3ffdbc03f45c9c64d75978ca79ddc79ddc69c0",
+      "category": "Báo cáo",
+      "githubPath": "docs/1770020438974_MAU BC TONG HOP HANG THANG (1).doc",
+      "size": 35840,
+      "note": "",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 1
+    },
+    {
+      "id": "Ew2O8izn05rZgUx2XCus",
+      "fileName": "Nội qui thuốc lá.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha": "fb793d402bc324fb524c27060844d52f68ff86a1",
+      "category": "Khác",
+      "name": "Nội qui thuốc lá",
+      "downloadCount": 2,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1775313582252_Nội qui thuốc lá.docx",
+      "timestamp": "2026-04-04T14:39:43.711Z",
+      "uploadedBy": "tytvtd@gmail.com",
+      "viewCount": 0,
+      "size": 73397,
+      "note": "",
+      "githubPath": "docs/1775313582252_Nội qui thuốc lá.docx"
+    },
+    {
+      "id": "HbAlupfP0iEOg1Asgm2o",
+      "sha": "248419ee9cc3253295e53eaf5853a78512164f0a",
+      "category": "Biểu mẫu",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "fileName": "ĐƠN XIN NGHỈ PHÉP.docx",
+      "timestamp": "2026-01-27T03:41:52.681Z",
+      "name": "Mẫu đơn xin nghỉ phép",
+      "downloadCount": 2,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1769485311600_ĐƠN XIN NGHỈ PHÉP.docx",
+      "viewCount": 1,
+      "uploadedBy": "tytvtd@gmail.com",
+      "githubPath": "docs/1769485311600_ĐƠN XIN NGHỈ PHÉP.docx",
+      "size": 19237,
+      "note": ""
+    },
+    {
+      "id": "Jzq9G3dkJ12ANPQNMxEI",
+      "type": "application/msword",
+      "fileName": "GCT BVBL.doc",
+      "category": "Giấy chuyển tuyến",
+      "sha": "5bcdbbfce2860f48b02d768c407c2facaeb53aa5",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1770253405681_GCT%20BVBL.doc",
+      "downloadCount": 0,
+      "name": "Giấy chuyển tuyến Bệnh viện Đa khoa Bạc Liêu",
+      "timestamp": "2026-02-05T01:03:27.329Z",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 2,
+      "githubPath": "docs/1770253405681_GCT BVBL.doc",
+      "size": 88064,
+      "note": "GCT-BV"
+    },
+    {
+      "id": "OMMMASkU6W7ApvrBbYCv",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 0,
+      "githubPath": "docs/1776350348002_KẾ HOẠCH PC BKLN QUÝ I-2026 THAY THẾ.doc",
+      "note": "",
+      "size": 1260032,
+      "type": "application/msword",
+      "fileName": "KẾ HOẠCH PC BKLN QUÝ I-2026 THAY THẾ.doc",
+      "sha": "c0d04cdb823aea6e4bf84ff4bbee2588bf7bbd1b",
+      "category": "Báo cáo",
+      "name": "KẾ HOẠCH PC BKLN QUÝ I-2026 THAY THẾ",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776350348002_KẾ HOẠCH PC BKLN QUÝ I-2026 THAY THẾ.doc",
+      "downloadCount": 0,
+      "timestamp": "2026-04-16T14:39:11.521Z"
+    },
+    {
+      "id": "Uin0G5qQetQP3JS8EyBv",
+      "note": "",
+      "size": 1758208,
+      "githubPath": "docs/1769494705502_KH PC BKLN 2026.doc",
+      "uploadedBy": "tytvtd@gmail.com",
+      "viewCount": 3,
+      "name": "KH PC BKLN 2026 (dự thảo)",
+      "downloadCount": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1769494705502_KH%20PC%20BKLN%202026.doc",
+      "timestamp": "2026-01-27T06:18:28.426Z",
+      "fileName": "KH PC BKLN 2026.doc",
+      "type": "application/msword",
+      "sha": "b5916dc99664236933df65526992a5a2a9732e66",
+      "category": "Kế hoạch"
+    },
+    {
+      "id": "Vih1mHDj1TuTyvipt6Gl",
+      "githubPath": "docs/1776610259872_IMG_2452.png",
+      "size": 3657826,
+      "note": "",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776610259872_IMG_2452.png",
+      "name": "IMG_2452",
+      "timestamp": "2026-04-19T14:51:03.134Z",
+      "type": "image/png",
+      "fileName": "IMG_2452.png",
+      "sha": "7ca019b481ed5dd534275b458c6ac848cc88619f",
+      "category": "Báo cáo"
+    },
+    {
+      "id": "YSjnDZyPU3TEGsDoszmb",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1769485278545_phieu%20kham%20san%20loc%20mau%20moi%20(1).docx",
+      "name": "Mẫu phiếu KSL tiêm chủng",
+      "downloadCount": 4,
+      "timestamp": "2026-01-27T03:41:20.104Z",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "fileName": "phieu kham san loc mau moi (1).docx",
+      "sha": "e119f6b5f601dee4473b665f82bc039c786c2d51",
+      "category": "Biểu mẫu",
+      "githubPath": "docs/1769485278545_phieu kham san loc mau moi (1).docx",
+      "size": 65838,
+      "note": "",
+      "uploadedBy": "tytvtd@gmail.com",
+      "viewCount": 4
+    },
+    {
+      "id": "YX2UAz683x2IIPhfU6C2",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 2,
+      "note": "",
+      "size": 1785856,
+      "githubPath": "docs/1776702039556_KH Sàng lọc THA, ĐTĐ NGƯỜI TRÊN 40 TUỔI NĂM 2026.doc",
+      "fileName": "KH Sàng lọc THA, ĐTĐ NGƯỜI TRÊN 40 TUỔI NĂM 2026.doc",
+      "type": "application/msword",
+      "sha": "c78ad37c096e4d4f8c1d905213125011aa860c9b",
+      "category": "Khác",
+      "name": "KH Sàng lọc THA, ĐTĐ NGƯỜI TRÊN 40 TUỔI NĂM 2026",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776702039556_KH Sàng lọc THA, ĐTĐ NGƯỜI TRÊN 40 TUỔI NĂM 2026.doc",
+      "downloadCount": 1,
+      "timestamp": "2026-04-20T16:20:42.417Z"
+    },
+    {
+      "id": "YZzH67aBFC3RpD6uQaaT",
+      "timestamp": "2026-04-04T13:06:37.017Z",
+      "downloadCount": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1775307995695_Danh sách tiếp nhận bệnh tuyến trên chuyển về.docx",
+      "name": "Danh sách tiếp nhận bệnh tuyến trên chuyển về",
+      "sha": "7d9ab4683ca0a02545c6e80705dc5df18ae98c9f",
+      "category": "Biểu mẫu",
+      "fileName": "Danh sách tiếp nhận bệnh tuyến trên chuyển về.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 31111,
+      "note": "",
+      "githubPath": "docs/1775307995695_Danh sách tiếp nhận bệnh tuyến trên chuyển về.docx",
+      "viewCount": 1,
+      "uploadedBy": "tytvtd@gmail.com"
+    },
+    {
+      "id": "g2ww6yk6QOOqHUKKXDz8",
+      "timestamp": "2026-05-11T10:21:57.720Z",
+      "downloadCount": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1778494915607_document%20(57)_1.pdf",
+      "name": "document (57)_1",
+      "sha": "23f1beea93bc27ea65babd6b837a23f9404a8632",
+      "category": "Khác",
+      "fileName": "document (57)_1.pdf",
+      "type": "application/pdf",
+      "size": 96685,
+      "note": "",
+      "githubPath": "docs/1778494915607_document (57)_1.pdf",
+      "viewCount": 0,
+      "uploadedBy": "sonlyhongduc@gmail.com"
+    },
+    {
+      "id": "jGZbeCQ47nJVCAgsxCK8",
+      "viewCount": 2,
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "size": 72192,
+      "note": "",
+      "githubPath": "docs/1770020404521_MẪU BC HIV BS HIEP.xls",
+      "sha": "e521c13b238c7f7d126e846d6f24937baa2d982f",
+      "category": "Báo cáo",
+      "fileName": "MẪU BC HIV BS HIEP.xls",
+      "type": "application/vnd.ms-excel",
+      "timestamp": "2026-02-02T08:20:06.754Z",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1770020404521_MẪU BC HIV BS HIEP.xls",
+      "downloadCount": 1,
+      "name": "MẪU BC-HIV BÁC SĨ HIỆP"
+    },
+    {
+      "id": "mWp54p7BgX4Yq6i8ARat",
+      "fileName": "KẾ HOẠCH PC BKLN QUÝ II-2026.doc",
+      "type": "application/msword",
+      "category": "Báo cáo",
+      "sha": "c587d59dca208677e1d3ddd1aaec5ca289cdae9c",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776350365566_KẾ HOẠCH PC BKLN QUÝ II-2026.doc",
+      "downloadCount": 0,
+      "name": "KẾ HOẠCH PC BKLN QUÝ II-2026",
+      "timestamp": "2026-04-16T14:39:29.364Z",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 0,
+      "note": "",
+      "size": 1256448,
+      "githubPath": "docs/1776350365566_KẾ HOẠCH PC BKLN QUÝ II-2026.doc"
+    },
+    {
+      "id": "mbcJZlOE0BVGuHjuRpx6",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1776350375858_KH hưởng ứng ngày TG phòng, chống THA 2025 đã sua.doc",
+      "name": "KH hưởng ứng ngày TG phòng, chống THA 2026 đã sua",
+      "downloadCount": 2,
+      "timestamp": "2026-04-16T14:39:39.468Z",
+      "type": "application/msword",
+      "fileName": "KH hưởng ứng ngày TG phòng, chống THA 2025 đã sua.doc",
+      "category": "Báo cáo",
+      "sha": "8af6f29edf0868ec48ece47c5d89e4e446b4bc28",
+      "githubPath": "docs/1776350375858_KH hưởng ứng ngày TG phòng, chống THA 2025 đã sua.doc",
+      "note": "",
+      "size": 1251840,
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 0
+    },
+    {
+      "id": "mfSmQ8eercreMul9UknQ",
+      "viewCount": 0,
+      "uploadedBy": "tytvtd@gmail.com",
+      "size": 74256,
+      "note": "",
+      "githubPath": "docs/1775313565733_Kế hoạch phòng chống tác hại thuốc lá 2026.docx",
+      "category": "Kế hoạch",
+      "sha": "d2ab800bea8589b8bf5f98abcb27ce8aced4881a",
+      "fileName": "Kế hoạch phòng chống tác hại thuốc lá 2026.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "timestamp": "2026-04-04T14:39:27.337Z",
+      "name": "Kế hoạch phòng chống tác hại thuốc lá 2026",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1775313565733_Kế hoạch phòng chống tác hại thuốc lá 2026.docx",
+      "downloadCount": 2
+    },
+    {
+      "id": "r1aSyQAjzUBDnHhbgjaS",
+      "uploadedBy": "tytvtd@gmail.com",
+      "viewCount": 2,
+      "size": 101447,
+      "note": "",
+      "githubPath": "docs/1775307409013_Bìa - Sổ tiếp nhận bệnh tuyến truyên chuyển về.docx",
+      "fileName": "Bìa - Sổ tiếp nhận bệnh tuyến truyên chuyển về.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha": "851d13cc343c813e968c9f6c9d81593fd9db262c",
+      "category": "Biểu mẫu",
+      "downloadCount": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1775307409013_Bìa - Sổ tiếp nhận bệnh tuyến truyên chuyển về.docx",
+      "name": "Bìa - Sổ tiếp nhận bệnh tuyến truyên chuyển về",
+      "timestamp": "2026-04-04T12:56:50.666Z"
+    },
+    {
+      "id": "rk84OfbC7hRTh8rCcq6J",
+      "timestamp": "2026-01-30T15:51:10.747Z",
+      "name": "KH KSL",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1769788269156_KH%20KSL.doc",
+      "downloadCount": 0,
+      "category": "Kế hoạch",
+      "sha": "348d462a7293a0858e01c3013b99df9afa92a26b",
+      "fileName": "KH KSL.doc",
+      "type": "application/msword",
+      "size": 55808,
+      "note": "",
+      "githubPath": "docs/1769788269156_KH KSL.doc",
+      "viewCount": 5,
+      "uploadedBy": "sonlyhongduc@gmail.com"
+    },
+    {
+      "id": "w7438JDyolP63nqlNtjl",
+      "uploadedBy": "sonlyhongduc@gmail.com",
+      "viewCount": 0,
+      "size": 89600,
+      "note": "GCT-TT",
+      "githubPath": "docs/1770253377872_GCT TT.doc",
+      "fileName": "GCT TT.doc",
+      "type": "application/msword",
+      "category": "Giấy chuyển tuyến",
+      "sha": "01a8fbb3c671e9fd9c55b9f9719e421270acbdb5",
+      "name": "Giấy chuyển tuyến Bệnh viện Tâm thần",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1770253377872_GCT%20TT.doc",
+      "downloadCount": 0,
+      "timestamp": "2026-02-05T01:02:59.671Z"
+    },
+    {
+      "id": "xR6sHBuU9kdaZf7ZJahl",
+      "category": "Biểu mẫu",
+      "sha": "6206a8df0f2418a8e6017c3f486e5485bc70e387",
+      "fileName": "DS DIEU TRA SU DUNG MUOI IOD.doc",
+      "type": "application/msword",
+      "timestamp": "2026-01-27T03:43:54.330Z",
+      "downloadUrl": "https://raw.githubusercontent.com/duccodedao/phuonghiepthanh/main/docs/1769485432911_DS%20DIEU%20TRA%20SU%20DUNG%20MUOI%20IOD.doc",
+      "name": "Mẫu DS điều tra sử dụng IOD",
+      "downloadCount": 3,
+      "viewCount": 4,
+      "uploadedBy": "tytvtd@gmail.com",
+      "size": 47104,
+      "note": "",
+      "githubPath": "docs/1769485432911_DS DIEU TRA SU DUNG MUOI IOD.doc"
+    }
+  ]
+}
